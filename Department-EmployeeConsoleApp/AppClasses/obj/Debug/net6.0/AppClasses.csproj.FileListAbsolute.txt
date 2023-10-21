@@ -1,0 +1,11 @@
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\AppClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\AppClasses.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\AppClasses.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\AppClasses.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\bin\Debug\net6.0\AppClasses.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\bin\Debug\net6.0\AppClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\bin\Debug\net6.0\AppClasses.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\AppClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\refint\AppClasses.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\AppClasses.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\Department-EmployeeConsoleApp\AppClasses\obj\Debug\net6.0\ref\AppClasses.dll
