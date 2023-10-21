@@ -57,7 +57,7 @@ namespace AppClasses.Classes
         }
         public Employee[] RemoveEmployee(int id)
         {
-            Employee[] newEmpolyeeArr = Array.Empty<Employee>();
+            Employee[] newEmpolyeeArr = new Employee[Employees.Length - 1];
             foreach (Employee emp in Employees)
             {
                 if (emp.Id == id)
@@ -65,12 +65,13 @@ namespace AppClasses.Classes
                     continue;
                 }
 
-                Array.Resize(ref newEmpolyeeArr, newEmpolyeeArr.Length + 1);
+                Array.Resize(ref newEmpolyeeArr, newEmpolyeeArr.Length);
                 newEmpolyeeArr[^1] = emp;
 
             }
+            Employees = newEmpolyeeArr;
 
-            return newEmpolyeeArr;
+            return Employees;
         }
 
         public Employee GetEmployee(int id)

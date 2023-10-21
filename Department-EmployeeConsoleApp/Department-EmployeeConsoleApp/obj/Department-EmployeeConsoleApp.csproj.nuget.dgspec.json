@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj": {}
+    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj": {
+    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
+        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
         "projectName": "AppClasses",
-        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
+        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
         "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\obj\\",
+        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj": {
+    "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj",
         "projectName": "Department-EmployeeConsoleApp",
-        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj",
+        "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp.csproj",
         "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\Department-EmployeeConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj": {
-                "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj"
+              "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj": {
+                "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj"
               }
             }
           }

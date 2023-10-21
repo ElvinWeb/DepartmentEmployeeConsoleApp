@@ -10,8 +10,7 @@ namespace Department_EmployeeConsoleApp
         static void Main(string[] args)
         {
             Department Department = new Department("IT", 5);
-            Department Department1 = new Department("Marketing", 2);
-
+            Department MarketingDepartment = new Department("Marketing", 2);
 
             string option;
             do
@@ -136,7 +135,7 @@ namespace Department_EmployeeConsoleApp
                         bool parseRemoveId;
                         do
                         {
-                            Console.Write("axtaris ucun isci ID daxil edin: ");
+                            Console.Write("Remove ucun isci ID daxil edin: ");
                             removeIdStr = Console.ReadLine();
                             parseRemoveId = int.TryParse(removeIdStr, out removeId);
                             if (!parseRemoveId)
@@ -153,6 +152,7 @@ namespace Department_EmployeeConsoleApp
                         break;
                 }
             } while (option != "0");
+
         }
         public static Employee CreateEmployee()
         {

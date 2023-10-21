@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
+      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
       "projectName": "AppClasses",
-      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
+      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\AppClasses.csproj",
       "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\Department-EmployeeConsoleApp\\AppClasses\\obj\\",
+      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\DepartmentEmployeeTask\\Department-EmployeeConsoleApp\\AppClasses\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
