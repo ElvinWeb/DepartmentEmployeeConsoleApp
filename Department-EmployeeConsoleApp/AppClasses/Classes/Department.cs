@@ -106,13 +106,17 @@ namespace AppClasses.Classes
         {
             Employee[] newEmpolyeeArr = Array.Empty<Employee>();
 
-            if (Name == departmentName)
+            if (this.Name == departmentName)
             {
                 foreach (Employee emp in Employees)
                 {
                     AddEmployee(ref newEmpolyeeArr, emp);
 
                 }
+            }
+            else
+            {
+                Console.WriteLine("Bele bir Department yoxdur");
             }
 
             return newEmpolyeeArr;
