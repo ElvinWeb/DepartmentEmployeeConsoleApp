@@ -9,7 +9,11 @@ namespace Department_EmployeeConsoleApp
     {
         static void Main(string[] args)
         {
-            Department Department = new Department("IT", 5);
+            Console.Write("Department adini daxil edin: ");
+            string departmentName = Console.ReadLine();
+            Console.Write("Isci Limiti daxil edin: ");
+            int employeeLimit = int.Parse(Console.ReadLine());
+            Department Department = new Department(departmentName.Trim(), employeeLimit);
 
 
             string option;
@@ -94,9 +98,9 @@ namespace Department_EmployeeConsoleApp
                         break;
                     case "5":
                         Console.Write("Axtaris ucun department adi daxil edin: ");
-                        string departmentName = Console.ReadLine();
+                        string searchedDepartName = Console.ReadLine();
 
-                        Employee[] employeesByDepartment = Department.GetEmployeesByDeparmentName(departmentName.Trim());
+                        Employee[] employeesByDepartment = Department.GetEmployeesByDeparmentName(searchedDepartName.Trim());
                         foreach (Employee employee in employeesByDepartment)
                         {
                             employee.ShowInfo();
