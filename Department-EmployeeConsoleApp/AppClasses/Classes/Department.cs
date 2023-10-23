@@ -58,6 +58,7 @@ namespace AppClasses.Classes
         public Employee[] RemoveEmployee(int id)
         {
             Employee[] newEmpolyeeArr = new Employee[Employees.Length - 1];
+            
             foreach (Employee emp in Employees)
             {
                 if (emp.Id == id)
@@ -71,7 +72,7 @@ namespace AppClasses.Classes
             }
             Employees = newEmpolyeeArr;
 
-            return Employees;
+            return newEmpolyeeArr;
         }
 
         public Employee GetEmployee(int id)
@@ -106,17 +107,13 @@ namespace AppClasses.Classes
         {
             Employee[] newEmpolyeeArr = Array.Empty<Employee>();
 
-            if (this.Name == departmentName)
+            foreach (Employee emp in Employees)
             {
-                foreach (Employee emp in Employees)
+                if (departmentName == emp.DepartmentName)
                 {
                     AddEmployee(ref newEmpolyeeArr, emp);
-
                 }
-            }
-            else
-            {
-                Console.WriteLine("Bele bir Department yoxdur");
+
             }
 
             return newEmpolyeeArr;

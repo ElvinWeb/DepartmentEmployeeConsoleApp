@@ -10,7 +10,7 @@ namespace Department_EmployeeConsoleApp
         static void Main(string[] args)
         {
             Department Department = new Department("IT", 5);
-            Department MarketingDepartment = new Department("Marketing", 2);
+
 
             string option;
             do
@@ -135,7 +135,7 @@ namespace Department_EmployeeConsoleApp
                         bool parseRemoveId;
                         do
                         {
-                            Console.Write("Remove ucun isci ID daxil edin: ");
+                            Console.Write("Silmek ucun isci ID daxil edin: ");
                             removeIdStr = Console.ReadLine();
                             parseRemoveId = int.TryParse(removeIdStr, out removeId);
                             if (!parseRemoveId)
@@ -175,6 +175,9 @@ namespace Department_EmployeeConsoleApp
 
             } while (!parseAge);
 
+            Console.Write("Isci departmentini daxil edin: ");
+            string departmentName = Console.ReadLine();
+
             double salary;
             string salaryStr;
             bool parseSalary;
@@ -210,7 +213,7 @@ namespace Department_EmployeeConsoleApp
                     break;
             }
 
-            Employee Employee = new Employee(Name.Trim(), position.ToString(), age, salary);
+            Employee Employee = new Employee(Name.Trim(), position.ToString(), age, salary, departmentName);
 
             return Employee;
 

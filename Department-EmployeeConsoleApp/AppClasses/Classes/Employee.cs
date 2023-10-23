@@ -15,12 +15,14 @@ namespace AppClasses.Classes
         public string Position { get; set; }
         public double Age { get; set; }
         public double Salary { get; set; }
+        public string DepartmentName { get; set; }
+
 
         static Employee()
         {
             _id = 0;
         }
-        public Employee(string name, string position, double age, double salary)
+        public Employee(string name, string position, double age, double salary, string departmentName)
         {
             _id++;
             Id = _id;
@@ -28,6 +30,8 @@ namespace AppClasses.Classes
             this.Position = position;
             this.Age = age;
             this.Salary = salary;
+            this.DepartmentName = departmentName;
+
         }
 
         public override string ToString()
